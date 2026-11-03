@@ -21,4 +21,4 @@ az ad sp create-for-rbac  --name "github-actions-aks" --sdk-auth
 
 # Define the cicd yaml file
 
-#########
+#####
